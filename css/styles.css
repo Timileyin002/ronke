@@ -1,0 +1,33 @@
+header{
+    color: black;
+    font-size: larger;
+    background-color: rgb(252, 249, 249);
+}
+ol{
+    background-color: rgb(209, 91, 127);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+ul{
+    background-color: crimson;
+    text-shadow: darkblue;
+    list-style: none;
+}
+h1{
+    background-color: dimgray;
+}
+h2{
+background-color: dimgray;
+font-style: inherit;
+}
+img{
+    width: 500px;
+}
+body{
+    background-color: cadetblue;
+    font-size: medium;
+}
+a{
+    text-decoration: none;
+}
